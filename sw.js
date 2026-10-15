@@ -1,4 +1,4 @@
-const VERSION = "v1.0.0"; // غيّر هذا الرقم عند كل تحديث لملفاتك ليتجدد الكاش
+const VERSION = "v1.0.1"; // غيّر هذا الرقم عند كل تحديث لملفاتك ليتجدد الكاش
 const CACHE = "rafiq-" + VERSION;
 const LOCAL = ["./", "index.html", "manifest.webmanifest", "storage.js", "check.html",
   "icon-192.png", "icon-512.png", "maskable-192.png", "maskable-512.png", "apple-touch-icon.png", "favicon-32.png"];
